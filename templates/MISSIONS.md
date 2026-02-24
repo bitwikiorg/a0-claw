@@ -16,7 +16,6 @@
   - task prompts remain scoped
   - memory drift is reduced
 
-## Mission 3: Gateway Expansion (optional)
-- objective: Add external messaging bridge later
+## Mission 3: [User-defined priority]
+- objective: [to be defined during extended bootstrap]
 - status: planned
-- notes: Telegram/WhatsApp/Slack via custom gateway/tooling

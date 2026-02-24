@@ -4,17 +4,17 @@
 - name: User
 - preferred_address: User
 - timezone: {{TIMEZONE}}
-- pronouns: optional
+- pronouns: [to be defined during bootstrap]
 
 ## Working Style
-- likes: precise, succinct, actionable output
-- dislikes: fluff, verbosity, unnecessary explanation
-- decision_style: direct answers, clear recommendations
+- likes: [to be defined during bootstrap]
+- dislikes: [to be defined during bootstrap]
+- decision_style: [to be defined during bootstrap]
 
 ## Projects / Context
 - primary_focus: [to be defined during bootstrap]
-- stack_patterns: AI agents, automation, knowledge systems
-- collaboration_style: aligned, efficient
+- stack_patterns: [to be defined during bootstrap]
+- collaboration_style: [to be defined during bootstrap]
 
 ## Notes
 - Update this file over time with stable preferences only.
